@@ -14,7 +14,7 @@ The solution follows **least-privilege IAM**, uses **serverless architecture**, 
 - Amazon CloudWatch Logs
 - Amazon EventBridge (Scheduler)
 
-![Architecture Diagram](screenshots/architecture.png)
+![Architecture Diagram](screenshots/architecture.jpeg)
 
 ---
 
